@@ -15,3 +15,59 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Syedghufran1/Syedghufran1/d7c7281c235996bb20221adbd240ce889c43957a/v9n8paf0q.webp" width="150" >
 </p>
+<h2>🚀 About Me</h2>
+
+<p>
+I'm a Data Science student and Business Developer passionate about
+building practical digital solutions.
+</p>
+
+<p>
+I work with Python, AI/ML, custom websites, and automation tools
+like N8N and Zapier. I also enjoy helping businesses grow through
+lead generation and business development.
+</p>
+
+<h2>🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,wordpress,flask,pandas,numpy,sklearn,git,github," />
+</p>
+
+<h2>🤖 AI & Automation</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  <b>Machine Learning • N8N • Zapier • Workflow Automation</b>
+</p>
+
+
+<h2>💼 Business Development</h2>
+
+<p align="center">
+  Lead Generation • Prospecting • Client Communication •
+  Market Research • Business Growth
+</p>
+
+<h2>🚀 Featured Projects</h2>
+🏠 House Price Prediction
+🛡️ LANShield
+🌐 Custom Website Projects
+⚙️ Automation Projects
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Syedghufran1&theme=tokyonight" />
+</p>
+
+<h2>🤝 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/devsyedghufran1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
