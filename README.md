@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Syedghufran1/Syedghufran1/d7c7281c235996bb20221adbd240ce889c43957a/v9n8paf0q.webp" width="150" >
+  <img src="https://raw.githubusercontent.com/Syedghufran1/Syedghufran1/80deea75a0d45ac604745a8620e2e5b4b78ccec5/Gemini_Generated_Image_c967qgc967qgc967.jpg" width="170" >
 </p>
 <h2>🚀 About Me</h2>
 
