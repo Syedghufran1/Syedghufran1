@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Syedghufran1/Syedghufran1/main/developer.png" width="250">
+  <img src="https://raw.githubusercontent.com/Syedghufran1/Syedghufran1/d7c7281c235996bb20221adbd240ce889c43957a/v9n8paf0q.webp" width="250">
 </p>
