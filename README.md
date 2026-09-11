@@ -58,10 +58,10 @@ lead generation and business development.
 🌐 Custom Website Projects
 ⚙️ Automation Projects
 
-<h2>📊 GitHub Stats</h2>
+<h2>🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Syedghufran1&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Syedghufran1&theme=tokyonight" />
 </p>
 
 <h2>🤝 Let's Connect</h2>
