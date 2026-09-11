@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  I'm Syed Ghufran ❤️
+  This is Ghufran ❤️
 </h1>
 
 <hr>
